@@ -3,5 +3,4 @@ Gunicorn
 pandas
 numpy
 scikit-learn
-pickle
 pickle-mixin
